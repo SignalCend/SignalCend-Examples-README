@@ -1,6 +1,6 @@
 ## SignalCend
 
-**Your devices are lying to you. I built the fix.**
+**Your devices are lying to you. We built the fix.**
 
 IoT fleets produce conflicting device state. Race conditions fire automations on stale data. Clock drift corrupts your event sequence. Duplicate webhooks trigger duplicate side effects.
 
