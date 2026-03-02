@@ -55,3 +55,21 @@ print(result["resolved_state"]["confidence"])  # 0.92
 
 ---
 ---
+## Latest Writing
+
+- [The Difference Between Monitoring and Arbitration](https://dev.to/arrows/the-difference-between-monitoring-and-arbitration-and-why-its-costing-you-3meo)) — Dev.to
+- ["Seems Fine" Is the Most Dangerous State in IoT Engineering](https://dev.to/arrows/seems-fine-is-the-most-dangerous-state-in-iot-engineering-3ajo)) — Dev.to
+- [I Got Tired of Debugging Ghost Offline Events at 2am](https://medium.com/@tyler_80706/i-got-tired-of-debugging-ghost-offline-events-at-2am-so-i-built-the-fix-5226a5cb592d) — Medium
+
+## SignalCend
+
+One API call resolves conflicting IoT device state in 47ms.
+Race conditions. Clock drift. RF noise. Duplicate events. Fixed.
+
+→ [signalcend.com](https://signalcend.com) — 1,000 free resolutions, no card
+→ [Examples Repository](https://github.com/yourusername/signalcend-examples)
+→ `pip install signalcend` / `npm i signalcend`
+```
+
+---
+
